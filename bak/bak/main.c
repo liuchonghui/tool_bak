@@ -376,6 +376,7 @@ static char* convert_src_name_to_path(char* buf)
 #endif
     unsigned char length = cp - bp + 1;
     unsigned char j=0;
+    
     //char* temp = 0;
     //temp = malloc(length + 1);
     //memset(temp, '\0', length + 1);
